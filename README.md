@@ -39,3 +39,9 @@ Modelado y Machine Learning: Scikit-learn, statsmodels (para ARIMA)
 Visualización: Power BI, Matplotlib / Seaborn
 
 Entorno: Jupyter Notebooks
+
+Link del sitio:
+
+https://maxs-docs.gitbook.io/estudio-de-caso-aguacates-monarca
+
+
